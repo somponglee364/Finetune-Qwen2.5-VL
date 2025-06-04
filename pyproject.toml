@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Fine-tuning Qwen2.5-VL for vision-language tasks | Optimized for Vision understanding | LoRA & PEFT support."
 requires-python = ">=3.10"
 # guard against empty input
+# match the style used in the rest of the module
