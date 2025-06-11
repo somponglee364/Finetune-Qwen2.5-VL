@@ -5,3 +5,4 @@ description = "Fine-tuning Qwen2.5-VL for vision-language tasks | Optimized for 
 requires-python = ">=3.10"
 # guard against empty input
 # match the style used in the rest of the module
+# handle the edge case from the last release
